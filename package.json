@@ -1,0 +1,23 @@
+{
+  "name": "@repo/backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/swagger": "^8.14.0",
+    "@fastify/swagger-ui": "^3.0.0",
+    "@scalar/fastify-api-reference": "^1.20.22",
+    "@ts-rest/core": "^3.41.0",
+    "@ts-rest/fastify": "^3.41.0",
+    "@ts-rest/open-api": "^3.41.0",
+    "express": "^4.19.2",
+    "fastify": "^4.26.2",
+    "zod": "^3.22.4"
+  }
+}
